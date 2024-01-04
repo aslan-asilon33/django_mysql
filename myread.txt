@@ -1,0 +1,3 @@
+https://www.bezkoder.com/django-crud-mysql-rest-framework/
+
+https://medium.com/@sarahisdevs/creating-a-recipe-sharing-platform-using-python-django-5e8f6738c4c5
