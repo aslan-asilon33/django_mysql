@@ -1,3 +1,16 @@
 https://www.bezkoder.com/django-crud-mysql-rest-framework/
 
 https://medium.com/@sarahisdevs/creating-a-recipe-sharing-platform-using-python-django-5e8f6738c4c5
+
+
+================= python virtual environtment
+1. python -m venv venv
+
+2venv\Scripts\activate
+
+----- example after pip install django, so run this command for all data pip in requirements.txt file
+3. pip install -r requirements.txt
+
+4. deactivate
+
+
